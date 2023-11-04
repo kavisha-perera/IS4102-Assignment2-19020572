@@ -1,0 +1,10 @@
+2023-11-04 21:34:02,633  INFO [main] UsersPage:49 - First name entered as Dilki
+2023-11-04 21:34:03,148  INFO [main] UsersPage:56 - First name entered as Perera
+2023-11-04 21:34:03,688  INFO [main] UsersPage:63 - Email entered as kavish.g.perera@gmail.com
+2023-11-04 21:34:03,976  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 21:34:05,416  INFO [main] ActitimeStepDefinitions:102 - New user created successfully: Dilki Perera
+2023-11-04 21:52:42,268  INFO [main] UsersPage:49 - First name entered as Dilki
+2023-11-04 21:52:42,749  INFO [main] UsersPage:56 - First name entered as Perera
+2023-11-04 21:52:43,422  INFO [main] UsersPage:63 - Email entered as kavish.g.perera@gmail.com
+2023-11-04 21:52:43,600  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 21:52:44,996  INFO [main] ActitimeStepDefinitions:102 - New user created successfully: Dilki Perera
